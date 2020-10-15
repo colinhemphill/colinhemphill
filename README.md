@@ -23,26 +23,26 @@ My current position is Front End Engineer II at [The Zebra](https://www.thezebra
 
 ## Personal projects
 
-### 🎙 The AniMonday Podcast
+### 🎙󠀠‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎The AniMonday Podcast
 
 A bi-weekly anime podcast. On each episode, we hit the "Random" button on Crunchyroll and must watch whatever pops up!
 
 **Roles:** web developer, content manager, co-host, audio engineer
 
-🔗  [https://animonday.moe](https://animonday.moe)
+🔗‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[https://animonday.moe](https://animonday.moe)
 
-### 🎸 dot.darkness
+### 🎸‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎dot.darkness
 
 A nerdy electronic rock duo specializing in drum & bass, outrun, and metal.
 
 **Roles:** web developer, content manager, guitarist, producer, background vocalist
 
-🔗  [https://dotdotdarknessmusic.com](https://dotdotdarknessmusic.com)
+🔗‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[https://dotdotdarknessmusic.com](https://dotdotdarknessmusic.com)
 
-### 🛋 Live For More Counseling
+### 🛋‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Live For More Counseling
 
 A low-cost counseling center that offers professional counseling services in North Austin and through secure telehealth video calls. My wife is the director.
 
 **Roles:** web developer, content manager
 
-🔗  [https://liveformorecounseling.com](https://liveformorecounseling.com)
+🔗‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[https://liveformorecounseling.com](https://liveformorecounseling.com)
