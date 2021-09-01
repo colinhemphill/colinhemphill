@@ -39,7 +39,7 @@ A nerdy electronic rock duo specializing in drum & bass, outrun, and metal.
 
 🔗‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[https://dotdotdarknessmusic.com](https://dotdotdarknessmusic.com)
 
-### 🛋‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Live For More Counseling
+### 🛋‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Kayla Hemphill Counseling
 
 A low-cost counseling center that offers professional counseling services in North Austin and through secure telehealth video calls. My wife is the director.
 
