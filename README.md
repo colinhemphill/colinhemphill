@@ -1,6 +1,6 @@
 # Colin Hemphill
 
-I am a front end developer based in Austin, TX! If you want find out more or get in touch, please visit [my website](https://colinhemphill.com).
+I am a front end developer based in Austin, TX! If you want find out more or get in touch, please visit [my website](https://colin.quest/3O0bpfE).
 
 ## Professional work
 
